@@ -21,39 +21,4 @@ To get familiar with the basic functionality of **Pandas** and **NumPy** librari
 ## Conclusion
 During the work, basic tools for data analysis in Python were demonstrated. Pandas provides convenient handling of tabular data, while NumPy enables efficient computations with arrays. Markdown cells make the notebook clear and structured. The additional task showed the integration of different tools for comprehensive data analysis.
 
-##Objective
-To learn the basic data manipulation capabilities of the Pandas library, including creating DataFrames, importing data from CSV files, performing indexing, filtering, sorting, grouping, and saving processed data. To develop practical skills in using Google Colab for data analysis.
-
-Tasks Completed
-Imported Pandas and NumPy libraries.
-
-Created a custom DataFrame containing information about music albums.
-
-Mounted Google Drive and loaded the Coffe_sales.csv dataset into a DataFrame.
-
-Explored the dataset using head(), info(), and describe().
-
-Practiced indexing with loc[] and iloc[] to access rows and individual values.
-
-Filtered transactions where the purchase amount was greater than 35.
-
-Sorted the dataset by the money column in descending order.
-
-Saved filtered and sorted results into a new CSV file (filtered_sales.csv).
-
-Created a custom DataFrame containing information about favorite books.
-
-Displayed the first and last rows of the dataset using head() and tail().
-
-Retrieved column names and checked their data type.
-
-Filtered transactions by payment type and coffee category.
-
-Created a new DateTime column by combining date and time values.
-
-Sorted records in chronological order using the new DateTime field.
-
-★ Additional task: implemented a group_and_sort() function that groups data by a categorical column, counts records in each group, sorts them in descending order, and exports the result to a CSV file.
-
-Conclusion
-During this laboratory work, the main features of the Pandas library for data analysis were studied and applied in practice. DataFrames were created manually and loaded from CSV files, while indexing, filtering, sorting, and grouping operations were performed on real-world data. The use of Google Colab and Google Drive integration simplified data access and storage. The additional task demonstrated how custom functions can automate analytical operations and prepare summarized datasets for further analysis.
+# Laboratory Work №2 **Course:** Data Analytics **Student:** Yurii Chaika, CS-41 ## Objective To learn the basic data manipulation capabilities of the **Pandas** library, including creating DataFrames, importing data from CSV files, performing indexing, filtering, sorting, grouping, and saving processed data. To develop practical skills in using **Google Colab** for data analysis. ## Tasks Completed 1. Imported **Pandas** and **NumPy** libraries. 2. Created a custom DataFrame containing information about music albums. 3. Mounted Google Drive and loaded the **Coffe_sales.csv** dataset into a DataFrame. 4. Explored the dataset using `head()`, `info()`, and `describe()`. 5. Practiced indexing with `loc[]` and `iloc[]` to access rows and individual values. 6. Filtered transactions where the purchase amount was greater than 35. 7. Sorted the dataset by the `money` column in descending order. 8. Saved filtered and sorted results into a new CSV file (`filtered_sales.csv`). 9. Created a custom DataFrame containing information about favorite books. 10. Displayed the first and last rows of the dataset using `head()` and `tail()`. 11. Retrieved column names and checked their data type. 12. Filtered transactions by payment type and coffee category. 13. Created a new `DateTime` column by combining date and time values. 14. Sorted records in chronological order using the new `DateTime` field. 15. ★ Additional task: implemented a `group_and_sort()` function that groups data by a categorical column, counts records in each group, sorts them in descending order, and exports the result to a CSV file. ## Conclusion During this laboratory work, the main features of the **Pandas** library for data analysis were studied and applied in practice. DataFrames were created manually and loaded from CSV files, while indexing, filtering, sorting, and grouping operations were performed on real-world data. The use of Google Colab and Google Drive integration simplified data access and storage. The additional task demonstrated how custom functions can automate analytical operations and prepare summarized datasets for further analysis.
