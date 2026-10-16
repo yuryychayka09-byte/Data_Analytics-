@@ -20,7 +20,8 @@ To get familiar with the basic functionality of **Pandas** and **NumPy** librari
 
 ## Conclusion
 During the work, basic tools for data analysis in Python were demonstrated. Pandas provides convenient handling of tabular data, while NumPy enables efficient computations with arrays. Markdown cells make the notebook clear and structured. The additional task showed the integration of different tools for comprehensive data analysis.
-Objective
+
+#Objective
 To learn the basic data manipulation capabilities of the Pandas library, including creating DataFrames, importing data from CSV files, performing indexing, filtering, sorting, grouping, and saving processed data. To develop practical skills in using Google Colab for data analysis.
 
 Tasks Completed
